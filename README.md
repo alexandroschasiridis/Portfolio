@@ -1,16 +1,23 @@
-# Portfolio
 
-<h1>Hi, I'm Alexandros! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
+<h1>Hi, I'm Alexandros!</h1> 
+I am a GIS analyst interested in urban and environmental analysis, with experience in spatial data analysis and cartographic design.
+I have studied Geology at the Aristotle University of Thessaloniki and my software of choice is QGIS.
+Below i have listed some of my projects to showcase my skills
+
+
+
+
+# Population Analysis of Thessaloniki
 <img src="Thessaloniki_Population.jpeg" width="1000">
+This project provides a clear understanding of the population dispersion across the Municipalities of the urban Thessaloniki area.
+The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which was sourced from the greek geodata service provider.
 
 
-
+# Geological Map of The Greater Thessaloniki Area
 <img src="reelmap.jpeg" width="1000">
-
-
-
-<h1>Hi, I'm Alexandros! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+This project is a cartographic visualization of the Greater Thessaloniki Area and it showcases the lithology the faults and chronological successiom of the geological background.
+The data that was used was sourced from I.G.M.R (Ι.Γ.Μ.Ε) and is a map that was published in 1978
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
