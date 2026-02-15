@@ -10,8 +10,12 @@ Below i have listed some of my projects to showcase my skills
 
 # Population Analysis of Thessaloniki
 <img src="Thessaloniki_Population.jpeg" width="1000">
-This project provides a clear understanding of the population dispersion across the Municipalities of the urban Thessaloniki area.
-The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which was sourced from the greek geodata service provider.
+This project provides a clear understanding of the population dispersion across the Municipalities of the urban area of Thessaloniki.
+The goal of this project is to provide information which could be used for urban planning
+The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which were sourced from the open data portal of the Municipality of Thessaloniki.
+The project involved data preparation and attribute calculation, spatial analysis, and cartographic design. Population density was calculated by dividing total population by municipal area, and the results were visualized using choropleth maps.
+
+The analysis shows that the central municipality of Thessaloniki has both the highest population and the highest population density compared to the surrounding municipalities, reflecting the strong urban core of the metropolitan area.
 
 
 # Geological Map of The Greater Thessaloniki Area
