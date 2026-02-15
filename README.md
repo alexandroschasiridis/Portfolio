@@ -10,44 +10,27 @@ Below i have listed some of my projects to showcase my skills
 
 # Population Analysis of Thessaloniki
 <img src="Thessaloniki_Population.jpeg" width="1000">
-This project provides a clear understanding of the population dispersion across the Municipalities of the urban area of Thessaloniki.
+-This project provides a clear understanding of the population dispersion across the Municipalities of the urban area of Thessaloniki.
 
-The main goal of this project is to provide information that can support urban planning and decision making.
+-The main goal of this project is to provide information that can support urban planning and decision making.
 
-The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which were sourced from the open data portal of the Municipality of Thessaloniki.
+-The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which were sourced from the open data portal of the Municipality of Thessaloniki.
 
-The project involved data preparation and attribute calculation, spatial analysis, and cartographic design. Population density was calculated by dividing total population by municipal area, and the results were visualized using choropleth maps.
+-The project involved data preparation and attribute calculation, spatial analysis, and cartographic design. Population density was calculated by dividing total population by municipal area, and the results were visualized using choropleth maps.
 
-The analysis shows that the central municipality of Thessaloniki has both the highest population and the highest population density compared to the surrounding municipalities, reflecting the strong urban core of the metropolitan area.
+-The analysis shows that the central municipality of Thessaloniki has both the highest population and the highest population density compared to the surrounding municipalities, reflecting the strong urban core of the metropolitan area.
 
 
 # Geological Map of The Greater Thessaloniki Area
 <img src="reelmap.jpeg" width="1000">
-This project is a cartographic visualization of the Greater Thessaloniki Area and it showcases the lithology the faults and chronological successiom of the geological background.
+-This project is a cartographic visualization of the Greater Thessaloniki Area and it showcases the lithology the faults and chronological successiom of the geological background.
 
-The aim of this project is to showcase the geology of the area with the intent of providing information which could be used for geotechnical purposes. 
+-The aim of this project is to showcase the geology of the area with the intent of providing information which could be used for geotechnical purposes. 
 
-The data that was used was sourced from I.G.M.R (Ι.Γ.Μ.Ε) and is a map that was published in 1978. 
+-The data that was used was sourced from I.G.M.R (Ι.Γ.Μ.Ε) and is a map that was published in 1978. 
 
-The methods that were used involved data management, polygon mapping of the original map, classification of the data, map design showcasing clear geologic information and cartographic design.
+-The methods that were used involved data management, polygon mapping of the original map, classification of the data, map design showcasing clear geologic information and cartographic design.
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
