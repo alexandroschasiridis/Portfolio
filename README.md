@@ -1,7 +1,7 @@
 
 
 <h1>Hi, I'm Alexandros!</h1> 
-I am a GIS analyst interested in urban and environmental analysis, and below i have listed some of my projects to showcase my skills,
+I am a GIS analyst interested in urban and environmental analysis with a BSc in Geology from the Aristotle University Of Thessaloniki, and below i have listed some of my projects to showcase my skills,
 
 
 
