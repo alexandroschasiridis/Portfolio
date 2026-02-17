@@ -1,9 +1,7 @@
 
 
 <h1>Hi, I'm Alexandros!</h1> 
-I am a GIS analyst interested in urban and environmental analysis, with experience in spatial data analysis and cartographic design.
-I have studied Geology at the Aristotle University of Thessaloniki and my software of choice is QGIS.
-Below i have listed some of my projects to showcase my skills
+I am a GIS analyst interested in urban and environmental analysis, and below i have listed some of my projects to showcase my skills,
 
 
 
