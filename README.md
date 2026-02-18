@@ -11,13 +11,13 @@ I am a GIS analyst interested in urban and environmental analysis with a BSc in 
 <img src="Thessaloniki_Population.jpeg" width="900">
 - This project provides a clear understanding of the population dispersion across the Municipalities of the urban area of Thessaloniki.
 
-- The main goal of this project is to provide information that can support urban planning and decision making.
+\- The main goal of this project is to provide information that can support urban planning and decision making.
 
-- The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which were sourced from the open data portal of the Municipality of Thessaloniki.
+\- The data that was used is the population of each Municipality which was sourced by ΕΛΣΤΑΤ and the municipality boundaries which were sourced from the open data portal of the Municipality of Thessaloniki.
 
-- The project involved data preparation and attribute calculation, spatial analysis, and cartographic design. Population density was calculated by dividing total population by municipal area, and the results were visualized using choropleth maps.
+\- The project involved data preparation and attribute calculation, spatial analysis, and cartographic design. Population density was calculated by dividing total population by municipal area, and the results were visualized using choropleth maps.
 
--The analysis shows that the central municipality of Thessaloniki has both the highest population and the highest population density compared to the surrounding municipalities, reflecting the strong urban core of the metropolitan area.
+\- The analysis shows that the central municipality of Thessaloniki has both the highest population and the highest population density compared to the surrounding municipalities, reflecting the strong urban core of the metropolitan area.
 
 <br><br>
 # Geological Map of The Greater Thessaloniki Area
