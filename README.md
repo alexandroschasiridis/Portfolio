@@ -22,7 +22,7 @@ I am a GIS analyst interested in urban and environmental analysis with a BSc in 
 <br><br>
 # Geological Map of The Greater Thessaloniki Area
 <img src="reelmap.jpeg" width="900">
-- This project is a cartographic visualization of the Greater Thessaloniki Area and it showcases the lithology the faults and chronological successiom of the geological background.
+- This project is a cartographic visualization of the Greater Thessaloniki Area and it showcases the lithology the faults and chronological succession of the geological background.
 <br><br>
 - The aim of this project is to showcase the geology of the area with the intent of providing information which could be used for geotechnical purposes. 
 <br><br>
